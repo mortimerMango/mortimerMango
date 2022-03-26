@@ -4,9 +4,10 @@
 </div>
 
 <h2 align="center">I am a developer from Califoria</h2>
+
 <h3 align="center"><i>This is a showcase of some projects I do for fun</i></h3>
 
-<h3 align="center">Languages and Tools</h3>
+<h4 align="center">Languages and Tools</h4>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
