@@ -1,11 +1,14 @@
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+<h2 align="center">I am a developer from Califoria</h2> 👋 
+<h3 align="center">This is a showcase of some projects I do for fun</h3> 🐙
+---
+<h3 align="center">Languages and Tools</h3>
 
-### I am a developer from Califoria 👋 
-#### This is a showcase of some projects I do for fun 🐙
-
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
