@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">I am a developer from Califoria</h2>
-<h3 align="center">This is a showcase of some projects I do for fun</h3>
+<h3 align="center"><i>This is a showcase of some projects I do for fun</i></h3>
 
 ---
 
