@@ -1,10 +1,9 @@
-<h2 align="center">I am a developer from Califoria</h2>
-
+<h2 align="center">Aspiring Developer from Califoria</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="center" style="color:aliceblue;"><i>This is a showcase of some projects I do for fun</i></h3>
+<h3 align="center"><i>This is a showcase of some projects I do for fun</i></h3>
 
 <h4 align="center">Languages and Tools</h4>
 
